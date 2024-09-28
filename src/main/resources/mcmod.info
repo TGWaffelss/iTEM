@@ -1,0 +1,8 @@
+[{
+  "modid": "iTEM",
+  "name": "iTEM",
+  "description": "Searches for and finds items in Hypixel Skyblock",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["TGWaffles","Orenico"]
+}]
