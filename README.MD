@@ -19,7 +19,7 @@ At the moment, it takes 12 hours for any item/inventory update to be reflected i
 
 We currently aren't advertising as we want to build up the utility and add more publically accessible options (eg https://tem.cx is being worked on) and uses for the database, but you can join while we're in beta and help to contribute.
 
-[Download Here!](https://www.dropbox.com/scl/fi/o29amqlnk4gev8vocsxre/Addicted-Final-1.jar?rlkey=4og14emdetjnnjt4feojvjr06&st=qelhxnti&dl=1)
+[Download](https://www.dropbox.com/scl/fi/o29amqlnk4gev8vocsxre/Addicted-Final-1.jar?rlkey=4og14emdetjnnjt4feojvjr06&st=qelhxnti&dl=1) If u dont want to compile it urself
 
 ---
 ## How to build?
