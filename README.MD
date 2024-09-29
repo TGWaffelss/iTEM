@@ -17,8 +17,6 @@ It also provides handy in-game features, such as lobby scanning for exotics, exo
 
 At the moment, it takes 12 hours for any item/inventory update to be reflected in the iTEM database. We have over 110 million items tracked, and almost 15 million players known about.
 
-We currently aren't advertising as we want to build up the utility and add more publically accessible options (eg https://tem.cx is being worked on) and uses for the database, but you can join while we're in beta and help to contribute.
-
 [Download](https://www.dropbox.com/scl/fi/b9cvm1x1nkjerkg5tq52x/iTEM-2.0.1.jar?rlkey=yspyji9i32u985kdlv25bqevi&st=3kzeam29&dl=1) If u dont want to compile it urself
 
 ---
