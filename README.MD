@@ -1,7 +1,7 @@
 
 # iTEM
 
-[![Build Status](https://ci.thom.club/job/TheExoticsMod/job/master/badge/icon)](https://ci.thom.club/job/TheExoticsMod/job/master/) [![Download](https://img.shields.io/badge/Download-8A2BE2)](https://www.dropbox.com/scl/fi/o29amqlnk4gev8vocsxre/Addicted-Final-1.jar?rlkey=4og14emdetjnnjt4feojvjr06&st=1ut65d6a&dl=1) [![Contributors](https://img.shields.io/github/contributors/TGWaffles/TheExoticsMod?&logo=GitHub)](https://github.com/TGWaffles/TheExoticsMod/graphs/contributors) [![Jenkins Coverage](https://img.shields.io/jenkins/coverage/jacoco?jobUrl=https%3A%2F%2Fci.thom.club%2Fjob%2FTheExoticsMod%2Fjob%2Fmaster)](https://ci.thom.club/job/TheExoticsMod/job/master/jacoco/) [![Jenkins tests](https://img.shields.io/jenkins/tests?compact_message&jobUrl=https%3A%2F%2Fci.thom.club%2Fjob%2FTheExoticsMod%2Fjob%2Fmaster)](https://ci.thom.club/job/TheExoticsMod/job/master/lastBuild/testReport/)
+[![Build Status](https://ci.thom.club/job/TheExoticsMod/job/master/badge/icon)](https://ci.thom.club/job/TheExoticsMod/job/master/) [![Download](https://img.shields.io/badge/Download-8A2BE2)](https://www.dropbox.com/scl/fi/b9cvm1x1nkjerkg5tq52x/iTEM-2.0.1.jar?rlkey=yspyji9i32u985kdlv25bqevi&st=3kzeam29&dl=1) [![Contributors](https://img.shields.io/github/contributors/TGWaffles/TheExoticsMod?&logo=GitHub)](https://github.com/TGWaffles/TheExoticsMod/graphs/contributors) [![Jenkins Coverage](https://img.shields.io/jenkins/coverage/jacoco?jobUrl=https%3A%2F%2Fci.thom.club%2Fjob%2FTheExoticsMod%2Fjob%2Fmaster)](https://ci.thom.club/job/TheExoticsMod/job/master/jacoco/) [![Jenkins tests](https://img.shields.io/jenkins/tests?compact_message&jobUrl=https%3A%2F%2Fci.thom.club%2Fjob%2FTheExoticsMod%2Fjob%2Fmaster)](https://ci.thom.club/job/TheExoticsMod/job/master/lastBuild/testReport/)
 
 ---
 
@@ -19,13 +19,6 @@ At the moment, it takes 12 hours for any item/inventory update to be reflected i
 
 We currently aren't advertising as we want to build up the utility and add more publically accessible options (eg https://tem.cx is being worked on) and uses for the database, but you can join while we're in beta and help to contribute.
 
-[Download](https://www.dropbox.com/scl/fi/o29amqlnk4gev8vocsxre/Addicted-Final-1.jar?rlkey=4og14emdetjnnjt4feojvjr06&st=qelhxnti&dl=1) If u dont want to compile it urself
+[Download](https://www.dropbox.com/scl/fi/b9cvm1x1nkjerkg5tq52x/iTEM-2.0.1.jar?rlkey=yspyji9i32u985kdlv25bqevi&st=3kzeam29&dl=1) If u dont want to compile it urself
 
 ---
-## How to build?
-
-### Protoc Files
-
-`protoc -I . --java_out annotate_code:src/main/java/ clientMessages.proto`
-
-`protoc -I . --java_out annotate_code:src/main/java/ serverMessages.proto`
